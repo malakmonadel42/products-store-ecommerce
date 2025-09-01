@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901205017_SeedProducts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20250901205017_SeedProducts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901204700_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20250901204700_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901204520_SeedProducts1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20250901204520_SeedProducts1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\webapplication8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\webapplication8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183548_CreateProductsTable6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20250901183548_CreateProductsTable6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183329_CreateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20250901183329_CreateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183134_CreateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication8\\Migrations\\20250901183134_CreateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|c:\\users\\malak monadel\\source\\repos\\webapplication8\\webapplication8\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416E0422-7212-40E7-8FFE-A792285D65FF}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250901205017_SeedProducts2.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901205017_SeedProducts2.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250901205017_SeedProducts2.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901205017_SeedProducts2.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250901205017_SeedProducts2.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:50:17.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250901204700_SeedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901204700_SeedProducts.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250901204700_SeedProducts.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901204700_SeedProducts.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250901204700_SeedProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:47:00.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250901204520_SeedProducts1.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901204520_SeedProducts1.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250901204520_SeedProducts1.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901204520_SeedProducts1.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250901204520_SeedProducts1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:45:20.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Models\\Item.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:20:08.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250901183548_CreateProductsTable6.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183548_CreateProductsTable6.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250901183548_CreateProductsTable6.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183548_CreateProductsTable6.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250901183548_CreateProductsTable6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:35:48.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication8\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:17:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:06:32.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Program.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Program.cs",
+              "RelativeToolTip": "WebApplication8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:20:22.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:01:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication8",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+              "RelativeDocumentMoniker": "WebApplication8\\WebApplication8.csproj",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+              "RelativeToolTip": "WebApplication8\\WebApplication8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T18:37:35.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication8\\appsettings.json",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\appsettings.json",
+              "RelativeToolTip": "WebApplication8\\appsettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T16:19:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250901183134_CreateProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183134_CreateProductsTable.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250901183134_CreateProductsTable.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183134_CreateProductsTable.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250901183134_CreateProductsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:31:34.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250901183329_CreateProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183329_CreateProductsTable.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Migrations\\20250901183329_CreateProductsTable.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Migrations\\20250901183329_CreateProductsTable.cs",
+              "RelativeToolTip": "WebApplication8\\Migrations\\20250901183329_CreateProductsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:33:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication8\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication8\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T22:17:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\DTOs.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\DTOs.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\DTOs.cs",
+              "RelativeToolTip": "WebApplication8\\DTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:44:55.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\malak monadel\\source\\repos\\WebApplication8\\WebApplication8\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication8\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:57:57.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
