@@ -525,10 +525,13 @@
                         <!-- Begin Li's Tab Menu Content Area -->
                     </div>
                 </div>
-                <div class="tab-content">
-                  <div class="row" id="products-container">
-    <!-- المنتجات رح تنرندر هون -->
-</div>
+<div class="tab-content">
+  <!-- New Products -->
+  <div id="li-new-product" class="tab-pane active show" role="tabpanel">
+    <div class="row">
+      <div class="product-active owl-carousel" id="new-products"></div>
+    </div>
+  </div>
 
                     <div id="li-bestseller-product" class="tab-pane" role="tabpanel">
                         <div class="row">
@@ -3576,44 +3579,66 @@ async function renderProducts() {
     const response = await fetch("https://localhost:44347/api/products");
     const products = await response.json();
 
+    // ✨ اعمل wrapper للـ carousel
+    let html = `<div class="product-active owl-carousel">`;
+
     products.forEach(p => {
       const price = p.price ?? 0;
       const oldPrice = p.oldPrice ?? null;
       const discount = p.discount ?? null;
 
-      container.innerHTML += `
-        <div class="col-lg-4 col-md-6">
-          <div class="single-product-wrap">
-            <div class="product-image">
-              <a href="single-product.html">
-                <img src="${p.image}" alt="${p.name}">
-              </a>
-              <span class="sticker">New</span>
+      html += `
+         <div class="single-product-wrap" style="min-width: 70px; flex: 0 0 auto;">
+        
+          <div class="product-image">
+            <a href="single-product.html">
+              <img src="${p.image}" alt="${p.name}">
+            </a>
+            <span class="sticker">New</span>
+          </div>
+          
+          <div class="product_desc">
+            <div class="product_desc_info">
+              <h4><a class="product_name" href="single-product.html">${p.name}</a></h4>
+              <div class="price-box">
+                <span class="new-price" style="color:${discount ? "red" : "black"}; font-weight:${discount ? "bold" : "normal"};">
+                  $${price.toFixed(2)}
+                </span>
+                ${oldPrice ? `<span class="old-price" style="text-decoration:line-through; color:gray;">$${oldPrice.toFixed(2)}</span>` : ""}
+                ${discount ? `<span class="discount" style="color:red; margin-left:8px;">${discount}%</span>` : ""}
+              </div>
             </div>
-            <div class="product_desc">
-              <div class="product_desc_info">
-                <h4><a class="product_name" href="single-product.html">${p.name}</a></h4>
-                <div class="price-box">
-                  <span class="new-price" style="color:${discount ? "red" : "black"}; font-weight:${discount ? "bold" : "normal"};">
-                    $${price.toFixed(2)}
-                  </span>
-                  ${oldPrice ? `<span class="old-price" style="text-decoration:line-through; color:gray;">$${oldPrice.toFixed(2)}</span>` : ""}
-                  ${discount ? `<span class="discount" style="color:red; margin-left:8px;">${discount}%</span>` : ""}
-                </div>
-              </div>
-              <div class="add-actions">
-                <ul class="add-actions-link">
-                  <li class="add-cart active">
-                    <a href="#" onClick="addToCart(${p.id},'${p.image}','${p.name}',${price})">Add to cart</a>
-                  </li>
-                  <li><a class="links-details" href="wishlist.html"><i class="fa fa-heart-o"></i></a></li>
-                  <li><a href="#" title="quick view" class="quick-view-btn" data-toggle="modal" data-target="#exampleModalCenter"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
+            <div class="add-actions">
+              <ul class="add-actions-link">
+                <li class="add-cart active">
+                  <a href="#" onClick="addToCart(${p.id},'${p.image}','${p.name}',${price})">Add to cart</a>
+                </li>
+                <li><a class="links-details" href="wishlist.html"><i class="fa fa-heart-o"></i></a></li>
+                <li><a href="#" title="quick view" class="quick-view-btn" data-toggle="modal" data-target="#exampleModalCenter"><i class="fa fa-eye"></i></a></li>
+              </ul>
             </div>
           </div>
         </div>
       `;
+    });
+
+    // ✨ سكّر الـ carousel wrapper
+    html += `</div>`;
+
+    container.innerHTML = html;
+
+    // ✨ فعل الـ Owl Carousel بعد ما تخلص
+    $(".product-active").owlCarousel({
+      loop: true,
+      margin: 20,
+      nav: true,   // ✅ يظهر الأسهم
+      dots: false, // يخفي النقاط
+
+      responsive: {
+        0: { items: 1 },
+        600: { items: 2 },
+        1000: { items: 5} // 4 منتجات بالصف
+      }
     });
 
   } catch (error) {
@@ -3621,6 +3646,8 @@ async function renderProducts() {
     container.innerHTML = "<p>Failed to load products.</p>";
   }
 }
+
+
 
 /* ---------------- INIT ---------------- */
 window.addEventListener("DOMContentLoaded", () => {
